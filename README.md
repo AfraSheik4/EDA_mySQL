@@ -1,1 +1,1 @@
-# EDA_mySQL
+Exploratory Data Analysis using MySQL.
